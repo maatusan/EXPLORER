@@ -33,6 +33,12 @@ header{
     font-family: Lato;
 
 }
+.featured-title{
+    text-align: center;
+        font-family: Montserrat;
+        font-size: 40px;
+        line-height: 40px;
+}
 .featured-subtitle{
     color: var(--subtitles-color);
     font-size: 23px;
@@ -63,6 +69,16 @@ header{
     line-height: 36px;
 }
 .read-more-button{
+    background-color: var(--accent-color);
+    color: var(--white-color);
+    text-align: center;
+        font-family: Montserrat;
+        font-size: 10px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 30px;
+        letter-spacing: 1px;
+        text-transform: uppercase;
 
 }
 .footer{
